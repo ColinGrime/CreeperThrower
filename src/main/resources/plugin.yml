@@ -1,0 +1,9 @@
+main: ${main.class}
+name: ${project.name}
+version: ${project.version}
+author: Scill
+api-version: 1.17
+commands:
+  creeperthrower:
+    description: Throw creepers to their deaths!
+    aliases: [ct]
